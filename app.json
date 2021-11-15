@@ -1,7 +1,7 @@
 {
     "name": "Dasbotz",
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://avatars.githubusercontent.com/c-handu/Dasbotz#master/Dasbotz.jpeg",
+    "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnanplk/lastpink",
     "website":   "under maintenance",
@@ -64,7 +64,7 @@
         "Z_BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply pinkt to identify)",
             "required": false,
-            "value": "PINKY"
+            "value": "Dasbotz"
         },
         "Z_DEP_NAME": {
             "description": "bot deployer name make it short  (for auto reply pinkt to identify)",
